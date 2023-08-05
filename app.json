@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Yieldmos", 
+  "appSummary": "Auto compound your staking & LP rewards non-custodially.",
+  "appWebsiteUrl": "https://yieldmos.com/strategies/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/yieldmos",
+    "github": "https://github.com/osmosis-labs",
+    "discord": "https://discord.gg/ABuTyEfXdr"
+  }
+}
